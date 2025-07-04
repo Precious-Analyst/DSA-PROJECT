@@ -25,3 +25,4 @@ I'm to use my SQL skills from the DSA Data Analysis class and solve both case sc
 9. Which consumer customer was the most profi table one?
 10. Which customer returned items, and what segment do they belong to?
 11. If the delivery truck is the most economical but the slowest shipping method and Express Air is the fastest but the most expensive one, do you think the company appropriately spent shipping costs based on the Order Priority? Explain your answer
+#### ANALYSIS
